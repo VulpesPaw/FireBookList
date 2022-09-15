@@ -3,7 +3,7 @@
 ## Background
 
 The FireBookList was used for my *Gymnasium Exam Thesis* – "Firebase - En analys mellan olika serverspråk", graduation 2021; Kattegattgymnasiet, Halmstad. 
-The thesis compares the differences between a Firebase production and a PHP production. This is the firebase project and it is compared to my earlier PHP[-Booklist](https://github.com/VulpesPaw/PHP-BookList/tree/master) project.
+The thesis compares the differences between a Firebase production and a PHP production. This is the firebase project and it is compared to my earlier [PHP-Booklist](https://github.com/VulpesPaw/PHP-BookList/tree/master) project.
 
 ## Thesis 
 
@@ -83,7 +83,7 @@ var firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 ````
-The enitre key is accessible through the Firebase Configuration Panel.
+The entire key is accessible through the Firebase Configuration Panel.
 
 ## License
 
