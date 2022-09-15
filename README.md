@@ -36,7 +36,7 @@ The project is developed in front-end JavaScript utilizing Google Firebase; a Ba
 Firestore comes by default with security features such as database serialization and such. 
 
 
-The firebase project includes but is not limited to the following functionalities:
+#### The firebase project includes but is not limited to the following functionalities:
 
 - Firebase Authentication and Firebase Authorization
 
